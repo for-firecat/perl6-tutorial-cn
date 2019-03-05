@@ -2,6 +2,9 @@
 <img height="64" width="64" src="https://perl6.org/camelia-logo.png" ></img>  
 译自 [The-Perl-Maven's-Perl-6-Tutorial](http://perl6maven.com/tutorial/toc)
 
+ 
+ 
+
 ## 关于此翻译
 译文对原文表达不当之处做了适当的修改，在表达不清晰之处提供了译注，并优化了部分排版。  
 另外，由于历史原因原文中的部分内容可能出现因过时而导致的错误，在翻译时也会做相应的修正并附以译注。  
